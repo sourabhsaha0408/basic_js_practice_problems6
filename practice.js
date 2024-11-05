@@ -1,7 +1,7 @@
 /*Find All Substrings of a String
 Write a program to print all substrings of a given string.*/
 
-const input = "sourabh";
+const input = "sanu";
 let output = "";
 
 for (i = 0; i < input.length; i++) {
